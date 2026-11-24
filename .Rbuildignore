@@ -1,0 +1,13 @@
+^renv$
+^renv\.lock$
+^bsfrag\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+^data-raw$
+^eval$
+^bsf\.duckdb$
+^README\.md$
+^CITATION\.cff$
+^\.github$
+^\.shinychat$
+^rag\.R$

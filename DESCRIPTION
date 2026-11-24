@@ -1,0 +1,39 @@
+Package: bsfrag
+Title: Retrieval-Augmented Question Answering over the Black Soldier Fly Literature
+Version: 0.1.0
+Authors@R: 
+    person("Thomas", "Klammsteiner", , "thomasklammsteiner@proton.me", role = c("aut", "cre"))
+Description: Builds a searchable store from open-access articles on the black
+    soldier fly (Hermetia illucens) and answers questions from it with a large
+    language model that cites the passages it used. Includes corpus download
+    from Europe PMC, conversion of JATS full texts to Markdown, heading-aware
+    chunking, local embeddings, hybrid retrieval, a Shiny chat app and an
+    expert-scored evaluation.
+License: MIT + file LICENSE
+URL: https://github.com/tklammsteiner/bsfrag
+BugReports: https://github.com/tklammsteiner/bsfrag/issues
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Depends: 
+    R (>= 4.3.0)
+Imports: 
+    bslib,
+    ellmer,
+    ragnar,
+    readr,
+    shiny,
+    shinychat,
+    xml2
+Suggests: 
+    devtools,
+    dplyr,
+    httr2,
+    knitr,
+    openxlsx,
+    purrr,
+    readxl,
+    testthat (>= 3.0.0),
+    tidyr,
+    withr
+Config/testthat/edition: 3
+Config/roxygen2/version: 8.1.1

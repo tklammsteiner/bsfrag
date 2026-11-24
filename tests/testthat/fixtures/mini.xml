@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article>
+  <front><article-meta>
+    <title-group><article-title>Test article on <italic>Hermetia illucens</italic></article-title></title-group>
+    <abstract><p>Larvae were reared on chicken feed.</p></abstract>
+  </article-meta></front>
+  <body>
+    <sec><title>Methods</title><p>Larvae were kept at 27 °C.</p>
+      <sec><title>Sequencing</title><p>16S rRNA amplicons were sequenced.</p></sec>
+    </sec>
+    <sec><title>Results</title><p>Enterococcus dominated the gut.</p></sec>
+  </body>
+  <back><ref-list><ref><element-citation><article-title>A cited paper</article-title></element-citation></ref></ref-list></back>
+</article>

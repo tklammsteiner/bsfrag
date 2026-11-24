@@ -1,0 +1,26 @@
+# R / RStudio
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.Renviron
+
+# Large or licence-restricted data (rebuilt by data-raw/download.R and build_store())
+data-raw/xml/
+data-raw/pdfs/
+data-raw/indexed.txt
+*.duckdb
+*.duckdb.wal
+
+# Local chat history and scratch work
+.shinychat/
+rag.R
+
+# Intermediate evaluation files
+eval/to_score.csv
+eval/to_score.xlsx
+eval/questions_draft.csv
+~$*.xlsx
+.httr-oauth
+.DS_Store
+.quarto

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "bsfrag: Retrieval-augmented question answering over the black soldier fly literature"
+authors:
+  - family-names: Klammsteiner
+    given-names: Thomas
+version: 0.1.0
+date-released: 2026-11-24
+license: MIT
+repository-code: "https://github.com/tklammsteiner/bsfrag"
