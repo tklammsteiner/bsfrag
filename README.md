@@ -7,7 +7,7 @@
 
 `bsfrag` is an R package for retrieval-augmented generation (RAG) over 1,106 open-access articles on the black soldier fly (*Hermetia illucens*). It retrieves the most relevant passages from the literature and has a large language model answer only from them, with numbered citations. If the sources do not cover a question, it says so.
 
-<!-- Add a screenshot or GIF of the app here, e.g. ![BSF-RAG app](man/figures/app.gif) -->
+![BSF-RAG app](man/figures/app.gif)
 
 ## Why
 
